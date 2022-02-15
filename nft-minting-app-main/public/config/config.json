@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc2aff767993ce548b2e7866100024e02b3af0442",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc2aff767993ce548b2e7866100024e02b3af0442",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Amigo's",
+  "SYMBOL": "AMIGO",
+  "MAX_SUPPLY": 666,
+  "WEI_COST": 116000000000000000000 ,
+  "DISPLAY_COST": 116,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/theamigos",
+  "SHOW_BACKGROUND": true
+}
